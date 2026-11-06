@@ -1,4 +1,6 @@
-# Numero de serie.bat
+# info_PC
+
+> Antes llamado `Numero de serie.bat`.
 
 Inventario rápido de un equipo Windows **con doble clic y sin instalar nada**.
 
@@ -22,7 +24,7 @@ Al final arma una **línea con todos los datos separados por comas** y la **copi
 
 ## Uso
 
-1. Descarga `Numero de serie.bat`.
+1. Descarga `info_PC.bat`.
 2. Haz doble clic.
 3. Pega (Ctrl+V) la línea en tu planilla.
 
